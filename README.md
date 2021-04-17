@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Cannon 👋
+
+<h3 color="green">I Don't know how to make a good README.md, so don't judge me</h3>
 
 <!--
 **CannonStealth/CannonStealth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
