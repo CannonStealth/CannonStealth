@@ -10,7 +10,7 @@
                     <a href="https://www.codecademy.com/learn/learn-c-plus-plus" target="_blank"><li>C++</li></a>
                     <a href="https://www.codecademy.com/learn/learn-html" target="_blank"><li>Html</li></a>
                     <a href="https://www.codecademy.com/learn/learn-css" target="_blank"><li>Css</li></a>
-                    <a href="https://www.codecademy.com/learn/react-101" target="_blank"><li>ENGLISH</li></a>
+                    <a><li>ENGLISH</li></a>
                     </ul>
 
 <h3>Things that I am gud:</h3>
